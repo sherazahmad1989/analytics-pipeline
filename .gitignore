@@ -3,3 +3,4 @@ __pycache__/
 data/raw/*.json
 data/processed/*.csv
 .env
+gcp-key.json
