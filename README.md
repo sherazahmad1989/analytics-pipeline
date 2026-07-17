@@ -142,3 +142,7 @@ since they're common gotchas with BigQuery specifically:
   engineering layer
 - Build a **Looker Studio** dashboard connected directly to BigQuery
 - Add a `Dockerfile` for containerized, reproducible runs
+
+
+
+[View the interactive dashboard](https://datastudio.google.com/reporting/c76e2490-c8cb-4c34-a33d-0503c331bb1d) — built in Looker Studio, connected directly to the BigQuery table produced by this pipeline.
